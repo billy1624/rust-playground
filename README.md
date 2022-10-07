@@ -1,4 +1,4 @@
-### Welcome to my Rust Playground!!
+## Welcome to my Rust Playground!!
 
 > This is a place where I experimenting Rust 🦀
 
