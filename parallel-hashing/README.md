@@ -1,4 +1,9 @@
+## Parallel Hashing
 
+```shell
+# Run in release mode to get the most out of your CPU
+$ cargo run --release
+```
 
 > Naive hashing with single thread: took 21.962238 seconds  
 > Parallel hashing with 1 threads: took 21.969705 seconds  
